@@ -11,7 +11,7 @@
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="48dp"
-        android:text="Añadir Fragment"
+        android:text="Añadir Fragment 1"
         />
     <LinearLayout
         android:layout_width="match_parent"
